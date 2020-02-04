@@ -1,0 +1,10 @@
+C:\Users\yoga360\Desktop\ExplorerRo\ExplorerRo\bin\Debug\ExplorerRo.exe.config
+C:\Users\yoga360\Desktop\ExplorerRo\ExplorerRo\bin\Debug\ExplorerRo.exe
+C:\Users\yoga360\Desktop\ExplorerRo\ExplorerRo\bin\Debug\ExplorerRo.pdb
+C:\Users\yoga360\Desktop\ExplorerRo\ExplorerRo\obj\Debug\ExplorerRo.csprojAssemblyReference.cache
+C:\Users\yoga360\Desktop\ExplorerRo\ExplorerRo\obj\Debug\ExplorerRo.Form1.resources
+C:\Users\yoga360\Desktop\ExplorerRo\ExplorerRo\obj\Debug\ExplorerRo.Properties.Resources.resources
+C:\Users\yoga360\Desktop\ExplorerRo\ExplorerRo\obj\Debug\ExplorerRo.csproj.GenerateResource.cache
+C:\Users\yoga360\Desktop\ExplorerRo\ExplorerRo\obj\Debug\ExplorerRo.csproj.CoreCompileInputs.cache
+C:\Users\yoga360\Desktop\ExplorerRo\ExplorerRo\obj\Debug\ExplorerRo.exe
+C:\Users\yoga360\Desktop\ExplorerRo\ExplorerRo\obj\Debug\ExplorerRo.pdb
